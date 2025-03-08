@@ -1,5 +1,5 @@
 # Login-Page-HTML-CSS
-This is a demo login page in HTML and CSS.  Kepp in mind that It is not interactive.
+This is a demo login page in HTML and CSS.  Keep in mind that It is not interactive.
 
 ## 📜 License
 - Image created by [🌐 pikisuperstar](https://www.freepik.com/author/pikisuperstar)
