@@ -22,6 +22,7 @@ body {
   background: url(../Images/img.jpg) no-repeat;
   background-size: cover;
   background-position: center;
+  overflow: hidden;
 }
 
 @media (max-width: 767px) {
@@ -41,6 +42,18 @@ body {
   color: white;
   border-radius: 10px;
   padding: 30px 40px;
+}
+
+@media (max-width: 480px) {
+  .wrapper {
+    padding: 30px 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .wrapper {
+    padding: 30px 5px;
+  }
 }
 
 .wrapper h1 {
